@@ -11,7 +11,7 @@ export default function Home() {
         </p>
         <div className="mt-6 flex gap-3">
           <a className="px-5 py-2 rounded-xl bg-[var(--primary)]/20 border border-[var(--primary)]/40 hover:bg-[var(--primary)]/30 transition">
-            Zobacz projekty
+            Moje projekty
           </a>
           <a className="px-5 py-2 rounded-xl bg-[var(--accent)]/20 border border-[var(--accent)]/40 hover:bg-[var(--accent)]/30 transition">
             Kontakt
